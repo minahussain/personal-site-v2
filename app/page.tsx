@@ -10,7 +10,10 @@ export default function Home() {
             <p>Frontend engineer and designer in the bay area</p>
             <p>
               Leading with curiosity at{' '}
-              <a href="https://attnhussain.com/" className="font-bold">
+              <a
+                href="https://minas-portfolio-a21fca.webflow.io/"
+                className="font-bold"
+              >
                 attnhussain
               </a>
             </p>
